@@ -2,6 +2,14 @@
 
 # 你好，我是 Hugo Wang 👋
 
-<img src="https://raw.githubusercontent.com/bujue600-arch/bujue600-arch/main/assets/motto.svg" alt="「了解真相才能获得真正的自由」" width="292" height="36" />
+<h6>「了解真相才能获得真正的自由」</h6>
+
+**前端开发 · 南京理工大学 · 2027 届**
+
+`TypeScript` `React` `Three.js` `Node.js`
+
+---
+
+📮 博客 [wbujue.xyz](https://www.wbujue.xyz) · ✉️ [1370352753@qq.com](mailto:1370352753@qq.com)
 
 </div>
